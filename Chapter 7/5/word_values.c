@@ -28,6 +28,7 @@ int main(void)
 				break;
 			case 'K':
 				value += 5;
+				break;
 			case 'J': case 'X':
 				value += 8;
 				break;
