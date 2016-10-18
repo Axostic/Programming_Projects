@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-#define DAYS_IN_A_MONTH 30;
-#define HOURS_IN_A_DAY 24;
+#define DAYS_IN_A_MONTH 30
+#define HOURS_IN_A_DAY 24
 
 /*
 Using the array of Exercise 8, write a program fragment that computes the

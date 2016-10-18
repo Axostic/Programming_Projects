@@ -18,7 +18,7 @@ int main(void)
                                 {1, 1, 1}, // seven
                                 {1, 1, 1, 1, 1, 1, 1}, // eight
                                 {1, 1, 1, 1, 0, 1, 1}  // nine
-                                }
+                                };
                                 // you could also use the designated initializers.
     
     return 0;
