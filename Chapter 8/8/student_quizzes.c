@@ -11,8 +11,7 @@ each quiz.
 
 int main(void)
 {
-	int highest_grade = 0, lowest_grade = 100, total_score = 0,
-		student_num, quiz_num, square_matrix[STUDENTS_AND_QUIZZES][STUDENTS_AND_QUIZZES] = {0};
+	int highest_grade = 0, lowest_grade = 100, total_score = 0, student_num, quiz_num, square_matrix[STUDENTS_AND_QUIZZES][STUDENTS_AND_QUIZZES] = {0};
 
 	for(student_num = 0; student_num < STUDENTS_AND_QUIZZES; student_num++)
 	{
