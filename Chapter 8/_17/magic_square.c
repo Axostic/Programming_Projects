@@ -41,7 +41,7 @@ int main(void)
 
 	for(current_row = 0; current_row < size; current_row++)
 	{
-		for(int current_column = 0; current_column < size; current_column++)
+		for(current_column = 0; current_column < size; current_column++)
 			printf("%3d ", magic_square[current_row][current_column]);
 		printf("\n");
 	}
